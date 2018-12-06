@@ -1,0 +1,16 @@
+1. Changed the met, decision, decision_o and match from 0 to No and 1 to Yes.
+2. Deleted rows with a bunch of missing info
+
+3. Most rules result to a NO
+
+4. NaiveBayes classifier - copied to excel spreadsheet
+
+- Test mode - 10- fold cross-validation - 
+8362 Instances
+5 Attributes
+
+Under field - most are NO prediction except Religion, art history/medicine
+
+Guys I just pushed an outline for the powerpoint. Use the  use the .pptx to open the slide show and edit it. 
+
+-Ren 
